@@ -2,7 +2,7 @@
 import ex_name
 
 # ex18: Names, Variables, Code, Functions
-ex_name.sub_title("ex18: Names, Variables, Code, Functions")
+ex_name.title("ex18: Names, Variables, Code, Functions")
 
 # Functions do: name pieces of code, take arguments and make mini-scripts (or tiny commands).
 
@@ -30,7 +30,7 @@ print_none()
 #
 
 # ex19: Functions and Variables
-ex_name.sub_title("ex19: Functions and Variables")
+ex_name.title("ex19: Functions and Variables")
 
 #Codes in the book (some words changed):
 #
@@ -55,14 +55,4 @@ cheese_and_crackers(10 + 20, 5 + 6)
 
 print "And we can combine the two, variables and math:"
 cheese_and_crackers(amount_of_cheese + 100, amount_of_crackers + 1000)
-
-
-#
-
-# ex20: Functions and Files
-ex_name.sub_title("ex20: Functions and Files")
-
-#Codes in the book (some words changed):
-#
-
 
