@@ -5,3 +5,7 @@
 def title(t):
     print("\n")
     print(" %s " % t.center(20, "="))
+
+def sub_title(t):
+    print("\n")
+    print(" %s " % t.center(20, "-"))
