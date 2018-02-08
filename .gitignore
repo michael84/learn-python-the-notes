@@ -2,3 +2,4 @@
 *.pyc
 .idea
 /jlpy/.idea
+/jlpy/__pycache__
